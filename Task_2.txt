@@ -1,0 +1,2 @@
+февр. 28, 2023 3:16:38 PM task_2 GetResult
+INFO: +
